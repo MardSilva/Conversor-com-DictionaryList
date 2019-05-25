@@ -1,4 +1,4 @@
-# Conversor-com-DictionaryList
+# Conversor de Comerciantes da Galáxia v.1.0
 
 Bem vindo  ao Conversor de Caracteres para Comerciantes da Galáxia
 Um simples conversor que pega caracteres de texto, e transforma-os em números somando-os.
