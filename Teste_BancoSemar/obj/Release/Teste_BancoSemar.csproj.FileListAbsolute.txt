@@ -1,0 +1,13 @@
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\bin\Release\Teste_BancoSemar.exe.manifest
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\bin\Release\Teste_BancoSemar.application
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\bin\Release\Teste_BancoSemar.exe
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\bin\Release\Teste_BancoSemar.pdb
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.frmPrincipal.resources
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.Properties.Resources.resources
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.sobre.resources
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.csproj.GenerateResource.cache
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.csproj.CoreCompileInputs.cache
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.exe.manifest
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.application
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.exe
+C:\Users\ejsil\source\repos\Teste_BancoSemar\Teste_BancoSemar\obj\Release\Teste_BancoSemar.pdb
